@@ -2,6 +2,6 @@ This is test repository for a snake game, created by different LLMs and workflow
 
 Prompt:
 Design and code classic snake game in Python. First make documentation, with list of steps to do, then proceed with steps one by one. 
-Use available MCP tools, if needed. 
+Use available Context7 MCP tools, if needed. 
 Ask me question, if in doubt.
 Create a `README.md` file for the Snake game project according to GitHub standards.
